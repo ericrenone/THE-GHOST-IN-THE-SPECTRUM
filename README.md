@@ -4,6 +4,10 @@
 
 **ERI Labs · Eric Ren · Jersey City, New Jersey · June 21, 2026**
 
+**Transfer-matrix functions for algebraically decaying interactions in variational infinite matrix product states
+Qi Yang**
+
+**https://arxiv.org/abs/2606.20522**
 ---
 
 ## Part One: The Tuning Fork
